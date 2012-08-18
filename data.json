@@ -1,0 +1,145 @@
+{
+	"campers":[
+		{
+			"name":"Gavin Y",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 2",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 3",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 4",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 5",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 6",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 7",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Cheating the system",
+			"preferences":[
+				"Big Candy",
+				"Fun Time",
+				"Good Place",
+				"Stupid Domain",
+				"Stupid Domain 2",
+				"Stupid Domain 3"
+			]
+		},
+		{
+			"name":"Gavin 8",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 9",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 10",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Gavin 11",
+			"preferences":[
+				"Fun Time",
+				"Good Place",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Jeff S",
+			"preferences":[
+				"Good Place",
+				"Fun Time",
+				"Big Candy"
+			]
+		},
+		{
+			"name":"Brian C",
+			"preferences":[
+				"Big Candy",
+				"Fun Time",
+				"Good Place"
+			]
+		}
+	],
+	"domains" : [
+		{
+			"name":"Fun Time",
+			"capacity":10
+		},
+		{
+			"name":"Good Place",
+			"capacity":12
+		},
+		{
+			"name":"Big Candy",
+			"capacity":8
+		},
+		{
+			"name":"Stupid Domain",
+			"capacity":3
+		},
+		{
+			"name":"Stupid Domain 2",
+			"capacity":3
+		},
+		{
+			"name":"Stupid Domain 3",
+			"capacity":3
+		}
+	]
+}
